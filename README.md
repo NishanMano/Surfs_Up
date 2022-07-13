@@ -19,7 +19,9 @@ December:
 ![Dec Temp](https://i.ibb.co/NZpdRsW/Dec-Temp-Stats.png) 
 
 ### Temperature Differences:
-Looking at the max temperatures for the month of June are 85 degrees and for the month of December are 83 degrees. Considering many other countries in the world, Hawaii has a very minor difference in max temperature for a summer month vs. a winter month. The same also applies to the minimum temperature (June = 56 degrees vs. December = 64 degrees) 
+- Looking at the max temperatures for the month of June are 85 degrees and for the month of December are 83 degrees. Considering many other countries in the world, Hawaii has a very minor difference in max temperature for a summer month vs. a winter month. 
+- The same also applies to the minimum temperature (June = 56 degrees vs. December = 64 degrees) 
+- The standard deviation for both months are very low which would imply that there isn't much of a spread through the temperature obseravations
 
 ## Summary 
 This analysis's conclusion shows that Hawaii's weather doesn't fluctuate drastically and that it would be fine to keep the shop open year long. 
